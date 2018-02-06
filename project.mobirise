@@ -70,7 +70,7 @@
           },
           "title": "UnderWorldGroup",
           "text": "Enter the hell",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://discord.gg/5SWFU7g\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">JOIN NOW FOR FREE</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">BUY VIP ACCESS (soon)&nbsp;</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">RANKINGS (soon)</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://discord.gg/5SWFU7g\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">JOIN NOW FOR FREE</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"http://underworld.ga\" data-toolbar=\"-mbrBtnMove\">BUY VIP ACCESS (soon)&nbsp;</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"http://underworld.ga\" data-toolbar=\"-mbrBtnMove\">RANKINGS (soon)</a>",
           "_tags": [
             "Theme"
           ],
@@ -159,7 +159,7 @@
               "color": "#000000"
             }
           },
-          "brand": "<a class=\"navbar-caption text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">DISCORD</a>",
+          "brand": "<a class=\"navbar-caption text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"http://underworld.ga\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">DISCORD</a>",
           "_tags": [
             "Theme"
           ],
@@ -258,7 +258,7 @@
               "color": "#000000"
             }
           },
-          "brand": "<a class=\"navbar-caption text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">DISCORD</a>",
+          "brand": "<a class=\"navbar-caption text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"http://underworld.ga\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">DISCORD</a>",
           "_tags": [
             "Theme"
           ],
